@@ -1,14 +1,6 @@
 extends layout
 
 block content
-  h1= title
-  p This page is for #{title}
-  input(type='button' id = 'hw' value='Header')
-  script(type='text/javascript').
-    var hw = document.getElementById('hw');
-    hw.addEventListener('click', function() {
-      alert("This is a main header.");
-      })
 
   div
     table(border="0" width="100%" height="100%")
@@ -20,7 +12,8 @@ block content
               tbody
                 tr
                   td(align="center")
-                    p menu
+                    p Title
+                    // Add image files for title
                 tr
                   td
                     div
@@ -38,7 +31,8 @@ block content
                                       td(align="center")
                                         p login page needed.
                             td(align="center")
-                              p body needed.
+                              p Body Contents
+                              include body.pug
                 tr
                   td(align="center" height="50" width="100%")
                     p copyright(c) 2017. Soogon Yoo. All Right Reserved.
