@@ -1,0 +1,29 @@
+div
+  table(border="0" width="100%" height="100%")
+    tbody
+      form(method="post" name="loginForm" action="")
+      tr(align="center")
+        td
+          p Login
+      tr
+        td
+          div
+            table(border="0" width="100%" height="100%")
+              tr
+                td(width="40") ID :
+                td
+                  input(type="text" size="10" name="m_userid")
+      tr
+        td
+          div
+            table(border="0" width="100%" height="100%")
+              tr
+                td(width="40") PW :
+                td
+                  input(type="password" size="10" name="m_password" onKeyPress="if(13==event.keyCode) login();")
+      tr
+        td(align="center")
+          input(type="button" value="Login" onClick="login()")
+      tr
+        td(align="center")
+          a(href="") Forget your ID/PW?

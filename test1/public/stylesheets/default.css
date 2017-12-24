@@ -1,0 +1,267 @@
+body, table, input, select, textarea { font-family : '±¼¸²';  font-size:9pt;  color:#626262; line-height:16px; }
+body {
+ margin:0px;
+ scrollbar-face-color: #efefef;
+ scrollbar-shadow-color: #7c7c7c;
+ scrollbar-highlight-color: #FFFFFF;
+ scrollbar-3dlight-color: #A2A2A2;
+ scrollbar-darkshadow-color: #FFFFFF;
+ scrollbar-track-color: #F4F4F4;
+ scrollbar-arrow-color: #CFCFCF;
+ left-margin: 0px;
+ top-margin: 0px;
+ background-image: url(/image/back.gif);
+ background-repeat: repeat-x;
+}
+
+form {margin:0; color: #5E5E5D;FONT-FAMILY:µ¸¿ò, arial; FONT-SIZE: 11px;;letter-spacing:-0.02em; text-decoration:none;line-height:12pt;}
+
+A:link {color:#666666; text-decoration:none; font-size:9pt;}
+A:visited {color:#666666; text-decoration:none; font-size:9pt;}
+A:active {color:#4169e1; text-decoration:none; font-size:9pt;}
+A:hover {color:#3333FF; text-decoration:underline; font-size:9pt;}
+
+font {font-family:µ¸¿ò; font-size:9pt; line-height:18px;}
+.b { font-size:8pt  ; line-height: 14px ; font-face:±¼¸²;}
+.text01 { font-family: "µ¸¿òÃ¼"; font-size: 9pt; color: #FFFFFF; line-height: 14pt; font-weight:bold; letter-spacing:-1pt;}
+.numbersjackpot { font-family: "µ¸¿òÃ¼"; font-size: 21pt; color: #FFFFFF; line-height: 22pt; font-weight:bold; letter-spacing:-1pt;}
+.size {font-family:µ¸¿ò; font-size:12pt; line-height:18px; font-weight:bold;}
+.s {font-family:µ¸¿ò; font-size:8pt; line-height:15px;}
+.size_ {font-family:µ¸¿ò; font-size:11pt; line-height:18px; font-weight:bold;}
+.ten {font-family:µ¸¿ò; font-size:10pt; line-height:18px; font-weight:bold;}
+
+.support {font-family:µ¸¿ò; font-size:9pt; line-height:15px;}
+
+
+td {font-family:µ¸¿ò; font-size:11px; color:#888888;line-height:14px;}
+.a {font-family:µ¸¿ò; font-size:9pt; color:#0000FF;line-height:25px; text-decoration:underline}
+.pyogray{FONT-SIZE: 12px; font-family:µ¸¿ò,verdana,helvetica; COLOR: #1C6D8B; BACKGROUND: #F6F6F6; font-weight:bold; text-align:center; }
+.sample {  background-color: #E8F0FC; border-color: #798EAE 798EAE 798EAE 798EAE; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+
+a.blue:link {color:#1e90ff; text-decoration:none; font-size:10pt;}
+a.blue:visited {color:#1e90ff; text-decoration:none; font-size:10pt;}
+a.blue:active {color:#1e90ff; text-decoration:none; font-size:10pt;}
+a.blue:hover {color:#4169e1; text-decoration:underline; font-size:10pt;}
+
+td.submenu        {color:#000000; text-decoration:none; font-size:9pt;}
+a.submenu:link    {color:#000000; text-decoration:none; font-size:9pt;}
+a.submenu:visited {color:#000000; text-decoration:none; font-size:9pt;}
+a.submenu:active  {color:#000000; text-decoration:none; font-size:9pt;}
+a.submenu:hover   {color:#000000; text-decoration:none; font-size:9pt;}
+
+.commoncant {float: left; padding:0px; text-align:left; margin: 0px; list-style-type: none; border-collapse: collapse; list-style: none; font-size:1px; line-height:1px;}
+.commoncant01 {padding:0px; text-align:left; margin: 0px; list-style-type: none; border-collapse: collapse; list-style: none; font-size:1px}
+
+.form {border:1px solid #CDCDCD;font-family:µ¸¿ò;font-size:12px; color:#555555;}
+.form4 {border:1px solid #6D6D6D;font-family:µ¸¿ò;font-size:12px; color:#B1B1B1;}
+.form2 {border:1px solid #E4DCBA;font-family:µ¸¿ò;font-size:12px; color:#555555;}
+.form3 {border:1px solid #CDCDCD;font-family:µ¸¿ò;font-size:11px; color:#555555; background-color:#F8F8F8; padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:2px;}
+
+.txt{font-family:µ¸¿ò; color:#666666; text-decoration:none; font-size:9pt;}
+.text1 { font-family: "µ¸¿ò"; font-size: 11px; color: #9E9FA1;}
+.text1color { font-family: "µ¸¿ò"; font-size: 11px; color: #3C6693;}
+.text2color { font-family: "µ¸¿ò"; font-size: 11px; color: #3276BD;}
+.text3color { font-family: "µ¸¿ò"; font-size: 11px; color: #3276BD;}
+.text4color { font-family: "µ¸¿ò"; font-size: 11px; color: #3276BD;}
+.text5color { font-family: "µ¸¿ò"; font-size: 11px; color: #3276BD;}
+.text6color { font-family: "µ¸¿ò"; font-size: 11px; color: #3276BD;}
+.text7color { font-family: "µ¸¿ò"; font-size: 11px; color: #3276BD;}
+.textblue {
+
+  align: bottom; text-align: left; FONT-SIZE: 11px; font-weight: normal; color: 2F5D8F;  letter-spacing:0pt; FONT-FAMILY: "µ¸¿ò";
+}
+.textgray {
+
+
+  align: bottom; text-align: left; FONT-SIZE: 11px; font-weight: normal; color: 999999;  letter-spacing:0pt; FONT-FAMILY: "µ¸¿ò";
+}
+
+
+.com { font-family: "µ¸¿òÃ¼"; font-size: 9pt; color: #666666; line-height: 12pt; letter-spacing:-1pt;}
+
+.consult_input { BORDER-RIGHT: #CCCCCC 1px solid; BORDER-TOP: #CCCCCC 1px solid; BORDER-LEFT: #CCCCCC 1px solid; BORDER-BOTTOM: #CCCCCC 1px solid; BACKGROUND-COLOR: #ffffff; font-size:9pt; color:#666666; }
+.consult_textarea { BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff }
+
+.input03 {
+ BORDER-RIGHT: #e1dfdb 1px solid; font-size: 9px; BORDER-TOP: #e1dfdb 1px solid; BACKGROUND: #f5f4f2; BORDER-LEFT: #e1dfdb 1px solid; 
+ FONT-SIZE: 9pt; COLOR: #9E9047; BACKGROUND: #F0E8D1;
+ COLOR: #666;
+ HEIGHT: 20px;
+ border: 1px solid C5BEAA;}
+.input {
+ BORDER-RIGHT: #e1dfdb 1px solid; font-size: 11px; BORDER-TOP: #e1dfdb 1px solid; BACKGROUND: #f5f4f2; BORDER-LEFT: #e1dfdb 1px solid; COLOR: #666; BORDER-BOTTOM: #e1dfdb 1px solid
+}
+.input3 {
+ FONT-SIZE: 11px; BORDER-RIGHT: #e1dfdb 1px solid; BORDER-TOP: #e1dfdb 1px solid; BACKGROUND: #ffffff; BORDER-LEFT: #e1dfdb 1px solid; BORDER-BOTTOM: #e1dfdb 1px solid HEIGHT: 19px 
+}
+.td2 {
+ FONT-SIZE: 11px; 
+ color: #888888;
+ padding-left: 7px;
+ border-right-color: #999999;
+ text-align: left;
+}
+.td1 {
+ FONT-SIZE: 11px; 
+ color: #888888;
+ padding-left: 17px;
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb2 {
+ FONT-SIZE: 11px; 
+ color: #888888;
+ padding-left: 5px;
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb3 {
+ color: #888888;
+ padding-right: 10px;
+ border-right-color: #999999;
+ text-align: right;
+}
+.bg_clb4 {
+ FONT-SIZE: 11px; 
+ color: #888888;
+ border-right-color: #999999;
+ text-align: center;
+}
+.bg_clb5 {
+ FONT-SIZE: 11px; HEIGHT: 28px;
+ color: #888888;BACKGROUND-COLOR: #FAF0EB; padding-left: 12px;background-image: url(/image/board_line7.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb5do {
+ FONT-SIZE: 11px; HEIGHT: 47px;
+ color: #888888;BACKGROUND-COLOR: #FAF0EB; padding-left: 12px;background-image: url(/image/board_line7--.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb5do3 {
+ FONT-SIZE: 11px; HEIGHT: 74px;
+ color: #888888;BACKGROUND-COLOR: #FAF0EB; padding-left: 12px;background-image: url(/image/board_line7---.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb5do3noline {
+ FONT-SIZE: 11px; HEIGHT: 74px;
+ color: #888888;BACKGROUND-COLOR: #FAF0EB; padding-left: 12px;background-image: url(/image/board_line7-.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb5noline {
+ FONT-SIZE: 11px; HEIGHT: 27px;
+ color: #888888;BACKGROUND-COLOR: #FAF0EB; padding-left: 12px;background-image: url(/image/board_line7-.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb6 {
+ FONT-SIZE: 11px; HEIGHT: 28px;
+ color: #888888;BACKGROUND-COLOR: #Ffffff; padding-left: 5px;background-image: url(/image/board_line8.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb6do {
+ FONT-SIZE: 11px; HEIGHT: 47px;
+ color: #888888;BACKGROUND-COLOR: #Ffffff; padding-left: 5px;background-image: url(/image/board_line8--.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb6do3 {
+ FONT-SIZE: 11px; HEIGHT: 74px;
+ color: #888888;BACKGROUND-COLOR: #Ffffff; padding-left: 5px;background-image: url(/image/board_line8---.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb6do3noline {
+ FONT-SIZE: 11px; HEIGHT: 74px;
+ color: #888888;BACKGROUND-COLOR: #Ffffff; padding-left: 5px;background-image: url(/image/board_line8-.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_clb6noline {
+ FONT-SIZE: 11px; HEIGHT: 27px;
+ color: #888888;BACKGROUND-COLOR: #Ffffff; padding-left: 5px;background-image: url(/image/board_line8-.gif);
+ border-right-color: #999999;
+ text-align: left;
+}
+.bg_cb1 {
+ HEIGHT: 34px;
+ color: #676767;
+ font-weight: bold;
+ padding-left: 0px;
+ border-right-color: #999999;
+ background-image: url();
+ text-align: left;
+}
+.bg_cb2 {
+ HEIGHT:34px;FONT-SIZE: 11px; 
+ color: #676767;
+ font-weight: bold;
+ padding-left: 10px;
+ border-right-color: #999999;
+ BACKGROUND-color: #FBFBFB;
+ text-align: left;
+}
+.bg_cb3{
+ HEIGHT: 34px;FONT-SIZE: 11px; 
+ color: #676767;
+ font-weight: bold;
+ border-right-color: #999999;
+ BACKGROUND-color: #FBFBFB;
+ text-align: center;
+}
+.bg_cb3_8{
+ HEIGHT: 29px;
+ color: #8F61AA;
+ font-weight: bold;
+ border-right-color: #999999;
+ background-image: url(/images/tableback2.gif);
+ text-align: center;}
+.maintext1 {
+ FONT-SIZE: 11px; color: #808080; letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext2-- {
+ FONT-SIZE: 11px; color: #ffffff; letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.m
+.maintext2- {
+ FONT-SIZE: 11px; color: #C84240; font-weight: bold;letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext2 {
+ FONT-SIZE: 11px; color: #E38D8B; font-weight: bold;letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext3 {
+ FONT-SIZE: 11px; color: #808080; font-weight: bold;letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext4 {
+ FONT-SIZE: 11px; color: #E05550; font-weight: bold;letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext5 {
+ FONT-SIZE: 11px; color: #ACACAC; letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext6 {
+ FONT-SIZE: 11px; color: #FF7A17; font-weight: bold;letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext7 {
+ FONT-SIZE: 11px; color: #656565; font-weight: bold;letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext8 {
+ FONT-SIZE: 11px; color: #AEAEAE; letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext9 {
+ FONT-SIZE: 11px; color: #999999; letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext10 {
+ FONT-SIZE: 11px; color: #EE737C; letter-spacing:-0.4pt; FONT-FAMILY: µ¸¿ò;
+}
+.maintext11 {
+ FONT-SIZE: 11px; color: #A26B81; letter-spacing:-0.3pt; FONT-FAMILY: µ¸¿ò;
+}
+.subtext1 {
+ FONT-SIZE: 11px; color: #E05550; font-weight: bold; FONT-FAMILY: µ¸¿ò;text-align: center;
+
+})
+

@@ -1,7 +1,9 @@
 doctype html
 html
   head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    h1(align="center")
+      include title.pug
+    link(rel='stylesheet', href='/stylesheets/default.css')
   body
-    block content
+
+block content

@@ -1,7 +1,6 @@
 extends layout
 
 block content
-
   div
     table(border="0" width="100%" height="100%")
       tbody
@@ -12,7 +11,7 @@ block content
               tbody
                 tr
                   td(align="center")
-                    p Title
+                    include header.pug
                     // Add image files for title
                 tr
                   td
@@ -26,13 +25,13 @@ block content
                                   tbody
                                     tr
                                       td(align="center")
-                                        p Menu needed.
+                                        include login.pug
                                     tr
                                       td(align="center")
-                                        p login page needed.
+                                        include left.pug
                             td(align="center")
-                              p Body Contents
+                              //  include cart.pug
                               include body.pug
-                tr
-                  td(align="center" height="50" width="100%")
-                    p copyright(c) 2017. Soogon Yoo. All Right Reserved.
+        tr(align="center")
+          td(align="center" height="50" width="100%")
+            p copyright(c) 2017. Soogon Yoo. All Right Reserved.
